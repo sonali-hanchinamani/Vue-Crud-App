@@ -1,5 +1,4 @@
-# vuex-crash-course
-
+# Vue CRUD App
 ## Project setup
 ```
 npm install
@@ -15,10 +14,12 @@ npm run serve
 npm run build
 ```
 
+### Run Tests
+```
+npx open cypress
+```
+
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
